@@ -1,3 +1,7 @@
 print('版本1')
 print('版本2')
 print('版本3')
+print("It's a test.")
+print("It's a test.")
+print("1+2","=",sep="-",end=" ")
+print("1+2","=",sep="-",end="\n")
