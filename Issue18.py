@@ -1,7 +1,7 @@
 # shell创建新文件有多种方式
 # 1. cat > filename 然后输入内容，ctrl+d结束
 # 2. touch filename 修改文件时间戳
-# 3. echo "content" > filename 输出指令到文件
+# 3. echo "content" > filename 输出内容到文件
 # 4. vim filename 打开文件编辑
 
 # this one is like your scripts with argv
